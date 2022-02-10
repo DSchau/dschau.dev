@@ -1,0 +1,16 @@
+{
+  "name": "dschau.dev",
+  "version": "0.0.1",
+  "author": "Dustin Schau <dustinschau@gmail.com>",
+  "private": true,
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "devDependencies": {
+    "astro": "^0.22.20",
+    "morphdom": "^2.6.1"
+  }
+}
